@@ -23,7 +23,6 @@ public class Password {
         bufferedWriter.flush();
         bufferedReader.close();
         bufferedWriter.close();
-
     }
 
 }
